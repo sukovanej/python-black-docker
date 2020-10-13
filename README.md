@@ -2,6 +2,12 @@
 
 # Python Black formatter image
 
+## Version
+
+ - `milansuk/python-black:3.8`
+ - `milansuk/python-black:latest` (Python 3.6)
+
+
 ## Using in a Gitlab CI
 
 In Gitlab CI one can easily use the image `milansuk/python-black` and run `black --check .`.
